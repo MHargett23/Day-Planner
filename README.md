@@ -8,4 +8,7 @@ The time
 <br>
 A field to hold user input
 <br>
-A save button
+A save button<br><br>
+
+Screen shot of deployed site:<br>
+![screen shot](assets/images/ss.png)
