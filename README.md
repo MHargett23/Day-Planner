@@ -9,6 +9,7 @@ The time
 A field to hold user input
 <br>
 A save button<br><br>
-
+Link to deployed site:  
+[deployed app]([https://mhargett23.github.io/Day-Planner/)
 Screen shot of deployed site:<br>
 ![screen shot](assets/images/ss.png)
