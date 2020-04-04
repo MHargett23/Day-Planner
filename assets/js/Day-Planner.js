@@ -1,6 +1,5 @@
 var currentDateAndTime = Date(Date.now());//(Eastern Daylight Time)
 var currentHour = new Date().getHours();//Current hour in military time
-currentHour = 12
 $('.date').text(currentDateAndTime)
 for (let i = 9; i < 18; i++) {
     if (currentHour > i) {

@@ -28,6 +28,7 @@ The time
 A field to hold user input
 <br>
 A save button<br><br>
-
+Link to deployed site:  
+[Day Planner](https://mhargett23.github.io/Day-Planner/)  
 Screen shot of deployed site:<br>
-![screen shot](assets/images/ss.png)
+![Screen Shot](assets/images/ss.png)
